@@ -1,1 +1,2 @@
-this is file p1.txtxt. \nHere we will learn about the basics of git command
+this is file p1.txt.
+Here we will learn about the basics of git command
